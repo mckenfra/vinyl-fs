@@ -1,5 +1,5 @@
 {
-  "name": "vinyl-fs",
+  "name": "@mckenfra/vinyl-fs",
   "version": "4.0.2",
   "description": "Vinyl adapter for the file system.",
   "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
